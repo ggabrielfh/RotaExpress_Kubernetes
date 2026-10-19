@@ -1,0 +1,11 @@
+# Material da disciplina (não publicar)
+*.pdf
+
+# Sistema e editores
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc

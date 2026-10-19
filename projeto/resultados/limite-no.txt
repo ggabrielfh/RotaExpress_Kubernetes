@@ -1,0 +1,52 @@
+### Tentativa com 6 réplicas: todas Running (nó reporta 8 CPUs, ver nota)
+NAME                    READY   STATUS    RESTARTS   AGE
+rotas-fc7784c5c-2vm8p   1/1     Running   0          15s
+rotas-fc7784c5c-5cgr7   1/1     Running   0          15s
+rotas-fc7784c5c-9w42j   1/1     Running   0          3m44s
+rotas-fc7784c5c-hrd7g   1/1     Running   0          15s
+rotas-fc7784c5c-sll7s   1/1     Running   0          2m18s
+rotas-fc7784c5c-zxh59   1/1     Running   0          18m
+Allocated resources:
+  (Total limits may be over 100 percent, i.e., overcommitted.)
+  Resource           Requests     Limits
+  --------           --------     ------
+  cpu                3950m (49%)  3100m (38%)
+  memory             804Mi (20%)  988Mi (25%)
+  ephemeral-storage  0 (0%)       0 (0%)
+  hugepages-1Gi      0 (0%)       0 (0%)
+  hugepages-2Mi      0 (0%)       0 (0%)
+  hugepages-32Mi     0 (0%)       0 (0%)
+  hugepages-64Ki     0 (0%)       0 (0%)
+Events:
+
+### capacity/allocatable cpu: 8/8 ; docker NanoCpus=3000000000
+
+### 16 réplicas
+deployment.apps/rotas scaled
+NAME                    READY   STATUS    RESTARTS   AGE
+rotas-fc7784c5c-6sf8t   1/1     Running   0          20s
+rotas-fc7784c5c-7jn6v   0/1     Pending   0          20s
+rotas-fc7784c5c-946qc   1/1     Running   0          20s
+rotas-fc7784c5c-9wljk   1/1     Running   0          20s
+rotas-fc7784c5c-bvgkk   1/1     Running   0          20s
+rotas-fc7784c5c-d957s   1/1     Running   0          20s
+rotas-fc7784c5c-hjpmp   1/1     Running   0          20s
+rotas-fc7784c5c-jqpkf   0/1     Pending   0          20s
+rotas-fc7784c5c-k6q2c   1/1     Running   0          20s
+rotas-fc7784c5c-lbdf7   1/1     Running   0          20s
+rotas-fc7784c5c-m2skp   1/1     Running   0          20s
+rotas-fc7784c5c-pp97z   1/1     Running   0          20s
+rotas-fc7784c5c-prgk9   1/1     Running   0          20s
+rotas-fc7784c5c-x8nkq   1/1     Running   0          20s
+rotas-fc7784c5c-zfpkv   1/1     Running   0          20s
+rotas-fc7784c5c-zxh59   1/1     Running   0          19m
+Events:
+  Type     Reason            Age               From               Message
+  ----     ------            ----              ----               -------
+  Warning  FailedScheduling  9s (x6 over 20s)  default-scheduler  0/1 nodes are available: 1 Insufficient cpu. preemption: 0/1 nodes are available: 1 No preemption victims found for incoming pod.
+Allocated resources:
+  (Total limits may be over 100 percent, i.e., overcommitted.)
+  Resource           Requests      Limits
+  --------           --------      ------
+  cpu                7950m (99%)   7100m (88%)
+  memory             1316Mi (33%)  2012Mi (51%)

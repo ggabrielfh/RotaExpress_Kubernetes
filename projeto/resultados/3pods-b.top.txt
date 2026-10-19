@@ -1,0 +1,23 @@
+rotas-fc7784c5c-4z7jd   222m   15Mi   
+rotas-fc7784c5c-zxh59   278m   14Mi   
+
+carga-4kxf5             22m    19Mi   
+rotas-fc7784c5c-4z7jd   283m   15Mi   
+rotas-fc7784c5c-vnl95   187m   17Mi   
+rotas-fc7784c5c-zxh59   288m   13Mi   
+
+carga-4kxf5             22m    19Mi   
+rotas-fc7784c5c-4z7jd   283m   15Mi   
+rotas-fc7784c5c-vnl95   187m   17Mi   
+rotas-fc7784c5c-zxh59   288m   13Mi   
+
+carga-4kxf5             22m    19Mi   
+rotas-fc7784c5c-4z7jd   283m   15Mi   
+rotas-fc7784c5c-vnl95   187m   17Mi   
+rotas-fc7784c5c-zxh59   288m   13Mi   
+
+carga-4kxf5             22m    19Mi   
+rotas-fc7784c5c-4z7jd   283m   15Mi   
+rotas-fc7784c5c-vnl95   187m   17Mi   
+rotas-fc7784c5c-zxh59   288m   13Mi   
+

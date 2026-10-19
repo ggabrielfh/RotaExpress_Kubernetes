@@ -1,0 +1,17 @@
+rotas-fc7784c5c-9w42j   314m   13Mi   
+rotas-fc7784c5c-zxh59   257m   13Mi   
+
+rotas-fc7784c5c-9w42j   314m   13Mi   
+rotas-fc7784c5c-zxh59   257m   13Mi   
+
+rotas-fc7784c5c-9w42j   314m   13Mi   
+rotas-fc7784c5c-zxh59   257m   13Mi   
+
+rotas-fc7784c5c-9w42j   314m   13Mi   
+rotas-fc7784c5c-zxh59   257m   13Mi   
+
+carga-9585l             14m    21Mi   
+rotas-fc7784c5c-9w42j   198m   14Mi   
+rotas-fc7784c5c-sll7s   204m   14Mi   
+rotas-fc7784c5c-zxh59   204m   13Mi   
+

@@ -1,0 +1,20 @@
+carga-mttjn             18m    19Mi   
+rotas-fc7784c5c-4z7jd   210m   15Mi   
+rotas-fc7784c5c-zxh59   365m   13Mi   
+
+carga-mttjn             18m    19Mi   
+rotas-fc7784c5c-4z7jd   210m   15Mi   
+rotas-fc7784c5c-zxh59   365m   13Mi   
+
+carga-mttjn             18m    19Mi   
+rotas-fc7784c5c-4z7jd   210m   15Mi   
+rotas-fc7784c5c-zxh59   365m   13Mi   
+
+carga-mttjn             18m    19Mi   
+rotas-fc7784c5c-4z7jd   210m   15Mi   
+rotas-fc7784c5c-zxh59   365m   13Mi   
+
+carga-mttjn             14m    21Mi   
+rotas-fc7784c5c-4z7jd   275m   15Mi   
+rotas-fc7784c5c-zxh59   269m   14Mi   
+
